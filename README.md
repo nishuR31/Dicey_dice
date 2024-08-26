@@ -14,6 +14,14 @@ This Python script simulates rolling a dice using the `random` and `colorama` li
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nishuR31/Dicey_dice)
 
+<div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://img.shields.io/badge/HELLO-CODERS-black" alt="Custom Badge">
+  <img src="https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=blueviolet" alt="Issue Count">
+  <img src="https://img.shields.io/github/issues/nishuR31/nishuR31?color=blueviolet" alt="Issue Count"></div>
+<br>
+<div align="centre">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" width="60"/> </a></div>
+
 
 ## Installation
 1. **Clone the Repository:**
@@ -22,11 +30,19 @@ This Python script simulates rolling a dice using the `random` and `colorama` li
    cd Dicey_dice
    ```
 
+
 2. **Install Dependencies:**
    Ensure you have Python installed, then install the required package:
    ```bash
    pip install colorama
    ```
+   or
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+
 
 ## Usage
 
