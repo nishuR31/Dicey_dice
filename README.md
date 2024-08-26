@@ -93,6 +93,10 @@ This Python script simulates rolling a dice using the `random` and `colorama` li
   - If the user enters anything other than "1" or "0", an error message is displayed.
   - The script handles exceptions and provides a user-friendly error message.
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nishuR31&repo=Dicey_dice&show_owner=true&theme=midnight-purple)](https://github.com/nishuR31)
+
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
