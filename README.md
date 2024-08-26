@@ -12,12 +12,18 @@ This Python script simulates rolling a dice using the `random` and `colorama` li
 - **Continuous Interaction:** Runs in a loop until the user chooses to exit.
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/nishuR31/Dicey_dice)
-
 <div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://img.shields.io/badge/HELLO-CODERS-black" alt="Custom Badge">
-  <img src="https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=blueviolet" alt="Issue Count">
-  <img src="https://img.shields.io/github/issues/nishuR31/nishuR31?color=blueviolet" alt="Issue Count"></div>
+  <img src="https://img.shields.io/github/repo-size/nishuR31/Dicey_dice?color=blueviolet" alt="GitHub Repo Size">
+  <a href="https://github.com/sponsors/nishuR31" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=blueviolet" alt="Open Source Love">
+  <img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me">  <img src="https://img.shields.io/badge/HELLO-CODERS-black" alt="Custom Badge">
+  <img src="https://img.shields.io/github/issues-pr-closed/nishuR31/Dicey_dice?color=blueviolet" alt="Issue Count">
+  <img src="https://img.shields.io/github/issues/nishuR31/Dicey_dice?color=blueviolet" alt="Issue Count">
+</div>
+
+
+
+
 <br>
 <div align="centre">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" width="60"/> </a></div>
