@@ -104,5 +104,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Contributions are welcome! Feel free to submit issues, feature requests, and pull requests.
 
 ## Contact
-For questions or suggestions, please contact [Email](nishanrajak7679@gmail.com) or [GitHub](https://github.com/nishuR31/)
+For questions or suggestions, please contact [Email](mailto:nishanrajak7679@gmail.com) or [GitHub](https://github.com/nishuR31/)
 
